@@ -1,0 +1,51 @@
+Steakholderanalyse:
+
+Steakholder des Parkhauses:
+
+-Kunden
+-Manager
+-Mitarbeiter
+-Investoren
+-Eigentümer
+-
+
+Interne: 
+
+-Manager
+-Mitarbeiter
+-Eigentümer
+-
+
+Externe:
+
+-Investoren
+-Kunden
+-
+
+Aktiv:
+
+-Eigentümer
+-Investoren
+-Manager
+-Mitarbeiter
+
+Passiv:
+
+-Kunden
+-
+
+
+Nutzen:
+
+Die Kunden haben ein einfacheres und komfortableres Parkerlebnis. 
+Die Eigentümer und Investoren haben eine größere Gewinnspanne.
+Dem Manager wird die Arbeit durch tools zu Verwaltung vereinfacht. 
+
+
+Disruptive Elemente: 
+
+Der Job der Schrankenwärters, der des Einweisers und der des Kassierers verschwindet.
+
+für eine bessere Welt:
+
+Es sollte ein Kommunikationsplan mit dem Manager und den Kunden erstellt werden, da die Kunden es nutzen und somit ist ausschlaggebend was sie sich wünschen und der Manager muss es am ende leiten also sollte man auch auf seine Wünsche eingehen.
