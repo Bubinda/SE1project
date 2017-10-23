@@ -1,0 +1,64 @@
+Projekt Digitalisierung eines voll analogen Parkhauses
+
+	Inhaltsverzeichnis:
+
+	1.Einführung
+	2.Ist-Zustand
+	3.Soll-Zustand
+	4.Schnittstellen
+	5.Inbetriebnahme/Einsatz
+	6.Qualitätsanforderungen
+	7.Projektdurchführung
+
+1.Einführung
+
+	In dem Projekt soll eine Digitalisierung eines voll analogen Parkhauses 		durchgeführt werden.
+	Hierzu werden die folgenden Posten analysiert und anschließend auf eine 		Digitalisierte Komponente umgesetzt.
+	-Schrankenwärter
+	-Einweiser
+	-Kassierer
+	-Manager
+
+2.Ist-Zustand
+
+	Der Schrankenwärter muss die Schranke öffnen, um Autos einfahren zu lassen, wenn 	noch Plätze frei sind.
+	Der Schrankenwärter muss die Schranke öffnen, um Autos herausfahren zu lassen, 		wenn das Ticket entwerten wurde oder ein Notfall vorliegt.
+
+	Der Einweiser muss freie Stellplätze kennen und die eingefahrenen Autos dorthin 	leiten können.
+
+	Der Kassierer muss Parkgebühren kassieren.
+
+	Der Manager muss Vorgaben für die drei anderen Mitarbeitet festlegen und 		Statistiken führen.
+
+3.Soll-Zustand
+
+	Die Schranke muss öffnen, um Autos einfahren zu lassen, wenn noch			Plätze frei sind.
+	Die Schranke muss öffnen, um Autos herausfahren zu lassen, wenn das Ticket 		entwerten wurde oder ein Notfall vorliegt.
+
+	Das Informationsschild muss Gesamtanzahl der freien Plätze kennen.
+	Das Informationsschild sollte die genaue Verteilung der Fahrzeuge auf den Ebenen 	kennen.
+
+	Der Kassenautomat muss Parkgebühren kassieren und das Ticket entwerten.
+
+	Das Managingtool muss Vorgaben für die drei anderen Mitarbeitet festlegen und 		Statistiken führen.
+
+
+4.Schnittstellen
+
+	Das Informationsschild gibt der Schranke die information ob es noch freie Plätze 
+	gibt.
+
+	Die Schranke gibt die Zeitinformation an das Ticket weiter.
+	Der Kassenautomat gibt die zweite Zeitinformation und die Entwertung an das Ticket 	weiter.
+
+	Die Schranke liest die Entwertungsinformation aus dem Ticket aus.
+
+	Das Managingtool legt die variablen Parameter fest (Öffnungszeiten, Preise).
+
+5.Inbetriebnahme/Einsatz
+
+	
+
+
+	
+
