@@ -1,0 +1,17 @@
+1. Als Kunde möchte/benötige ich viele Parkmöglichkeiten haben, um immer einen Parkplatz finden zu können.
+
+2. Als Kunde möchte/benötige ich günstige Preise, um lange Parken zu können.
+
+3. Als Manager möchte/benötige ich ein einfach zu handhabendes Tool, um das Parkhaus verwalten zu können.
+
+4. Als Mitarbeiter möchte/benötige ich einfach zu bedienende Maschinen, um den Job komfortabel erledigen zu können.
+
+5. Als Kunde möchte/benötige ich ein einfaches Kassensystem, um das Parkhaus schnell zu verlassen zu können. 
+
+6. Als Eigentümer möchte/benötige ich eine Software, die mir alle Statistiken über das Parkhaus anzeigt, um schnell einen Überblick über die Lage bekommen zu können.
+
+7. Als Kunde möchte/benötige ich Informationen darüber wie viele Parkplätze im Parkhaus noch frei sind, um eine lange suche nach einem Parkplatz sparen zu können.
+
+8. Als Manager möchte/benötige ich eine Softwarelösung, um immer alle wichtigen Informationen die das Parkhaus betreffen im blick haben zu können.
+
+9.
