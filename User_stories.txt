@@ -1,6 +1,6 @@
 1. Als Kunde möchte/benötige ich viele Parkmöglichkeiten haben, um immer einen Parkplatz finden zu können.
 
-2. Als Kunde möchte/benötige ich günstige Preise, um lange Parken zu können.
+2. Als Kunde möchte/benötige ich günstige Preise, um das Parkhaus häufig besuchen zu können.
 
 3. Als Manager möchte/benötige ich ein einfach zu handhabendes Tool, um das Parkhaus verwalten zu können.
 
@@ -14,6 +14,35 @@
 
 8. Als Manager möchte/benötige ich eine Softwarelösung, um immer alle wichtigen Informationen die das Parkhaus betreffen im blick haben zu können.
 
-9. Als Kunde möchte/benötige ich günstige Preise, um das Parkhaus häufig besuchen zu können.
+9. Als Kunde möchte/benötige ich lange Öffnungszeiten, um lange Parken zu können.
 
 10. Als Kunde möchte/benötige ich einen Ticketschalter an der Schranke den man gut vom Auto aus erreicht, um komfortabel Tickets bekommen zu können. 
+
+
+Mehrwert,Erfahrung,Aufwand,Risiko
+
+1. 10/5/10/6
+2. 6/5/5/8
+3. 5/10/5/4
+4. 7/4/7/5
+5. 4/8/6/4
+6. 8/9/9/7
+7. 8/8/9/7
+8. 6/8/7/6
+9. 9/5/9/3
+10. 5/5/3/2
+
+
+prio: (Mehrwert+Erfahrung)/(Aufwand+Risiko)
+
+1. 0,938
+2. 0,846
+3. 1,6
+4. 0,916
+5. 1,2
+6. 1,062
+7. 1
+8. 1,076
+9. 1,16
+10. 2
+
