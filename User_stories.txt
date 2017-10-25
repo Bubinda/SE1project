@@ -14,4 +14,6 @@
 
 8. Als Manager möchte/benötige ich eine Softwarelösung, um immer alle wichtigen Informationen die das Parkhaus betreffen im blick haben zu können.
 
-9.
+9. Als Kunde möchte/benötige ich günstige Preise, um das Parkhaus häufig besuchen zu können.
+
+10. Als Kunde möchte/benötige ich einen Ticketschalter an der Schranke den man gut vom Auto aus erreicht, um komfortabel Tickets bekommen zu können. 
